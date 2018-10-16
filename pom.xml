@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <fasterxml.jackson.core>2.8.4</fasterxml.jackson.core>
+        <fasterxml.jackson.core>2.8.11</fasterxml.jackson.core>
     </properties>
 
     <dependencies>
